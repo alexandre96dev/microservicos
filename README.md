@@ -44,4 +44,4 @@ docker exec -i mysql-container mysql -uroot -pprogramadorabordo < api/db/script.
 ```
 
 
-Para entender melhor sobre cada comando utilizado, assita a videoaula ;)
+
